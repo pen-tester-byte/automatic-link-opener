@@ -4,6 +4,9 @@ This is an automatic link opener which can do two functions:-
 1. Open a link
 2. Crash the computer
 
+## Support
+To support the project, please donate at ........
+
 This will crash the computer if there's no time delay.
 
 Three python modules are required to make it fully functional:-
